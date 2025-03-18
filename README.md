@@ -48,7 +48,9 @@ The model identified optimal pricing tiers based on booking timeframes to maximi
 ![image](https://github.com/user-attachments/assets/b8cb4711-5355-4ae4-b3ea-76531f0ab085)
 
 According to Littlewood’s rule, revenue is maximized when options are: 
+
 FL ≥ FH * Prob [XH > ΘH] 
+
 FL is the lower fare (in this case the probability is 100%), FH is the higher fare, XH is the demand for a higher fare and ΘH represents the protection level for a higher fare. 
 
 2. Inventory Management
