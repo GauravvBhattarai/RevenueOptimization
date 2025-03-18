@@ -153,7 +153,11 @@ From a strategic perspective, the implementation of these revenue optimization t
 # I. References
 
 Lazar, T. and Naylor, R. 2023. Festivals Edinburgh Economic Impact of Edinburgh Festivals Image credits.
+
 LNER 2023. Responsible Business Report 2023/24.
+
 Office of Rail and Road 2015. Impact Assessment of the CMA’s Options for Increasing On-Rail Competition [Online]. Available from: www.arup.com.
+
 Office of Rail and Road 2024. Passenger rail performance [Online]. [Accessed 6 January 2025]. Available from: https://dataportal.orr.gov.uk/statistics/performance/passenger-rail-performance/.
+
 Office of Rail and Road 2023. Rail fares index.
