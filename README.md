@@ -117,6 +117,7 @@ Overall Revenue Improvement: 13.2%
 
 ![image](https://github.com/user-attachments/assets/85ed6f7d-bb6b-45a1-88ac-5b872c1df8fa)
 
+The pricing strategy combined with other promotional techniques would increase Annual Revenue by £2.3M (a ROI of 312%). Revenue per Seat Mile would be £0.42, a 23% increase from the base figure. The dynamic pricing strategy on different fare classes would also help in capacity building, specifically, reducing empty seats by 16% and improving first-class utilization by 22%. Customer experiences will get better despite higher prices following the value proposition of LNER. In the short term, the optimization would help in immediate revenue increment during the Festive Fringe in Edinburgh including improved yield management and capacity utilization. In the long run, it will enhance LNER’s pricing strategy framework, demand forecasting capability, and understanding of customer behaviour and set a benchmark for other special events. Some ideas for future optimizations would be to roll out dynamic pricing immediately and update inventory management systems every 4 hours. 
 
 
 
